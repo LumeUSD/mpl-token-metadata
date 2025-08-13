@@ -1,4 +1,28 @@
-{8 items
+{
+  "name": "Payeer",
+  "symbol": "Pay",
+  "description": "Your NFT description here",
+  "image": "https://ipfs.io/ipfs/QmRZpbBexowE8gFZyDd7NBE8UirB9GHEwYUj4AWqwrgk1M",
+  "seller_fee_basis_points": 0,
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "69GZpzKffCruP9VfRdr9eXz33Uj2mALKVzjq7jvAbyVG",
+        "share": 100,
+        "verified": true
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/QmRZpbBexowE8gFZyDd7NBE8UirB9GHEwYUj4AWqwrgk1M",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+8 items
 key:
 4
 updateAuthority:
